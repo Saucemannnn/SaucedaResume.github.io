@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    display: block;
+    margin: 0 auto;
+    width: 1000px;
+
+}
+
+.img-Resume {
+width: 1000px;
+
+}
